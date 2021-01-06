@@ -1,0 +1,4 @@
+com\maiia\model\Post.class
+com\maiia\api\PostPollerController.class
+com\maiia\service\PostPollerService.class
+com\maiia\client\JsonPlaceHolderClient.class
